@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Meenu! 
+Cybersecurity enthusiast with hands-on experience in GRC, Security Operations & monitoring.
+
+## GRC Projects
+- [Infosec-Policies-library](https://github.com/meenuh7/Infosec-Policy-library.git)
+- [Cybersecurity Business Plan](https://github.com/meenuh7/Cybersecurity-Business-Plan.git)
+
+## Cyber Lab Projects
+
+## Featured Security Projects
 
 <!--
 **meenuh7/meenuh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
