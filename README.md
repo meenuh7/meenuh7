@@ -5,11 +5,17 @@ Cybersecurity enthusiast with hands-on experience in GRC, Security Operations & 
 - [Infosec-Policies-library](https://github.com/meenuh7/Infosec-Policy-library.git)
 - [Cybersecurity Business Plan](https://github.com/meenuh7/Cybersecurity-Business-Plan.git)
 
+## Featured Security Projects
+- [Network Scanning](https://github.com/meenuh7/Network-Scanning.git)
+- [DHCP Attack USing Hyenae](https://github.com/meenuh7/DHCP-Attack-Using-Hyenae.git)
+- [Vulnerability Assessment](https://github.com/meenuh7/Vulnerability-Assessment.git)
+
+
 <!--
 
 ## Cyber Lab Projects
 
-## Featured Security Projects
+
 
 -->
 
