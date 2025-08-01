@@ -11,13 +11,8 @@ Cybersecurity enthusiast with hands-on experience in GRC, Security Operations & 
 - [Vulnerability Assessment](https://github.com/meenuh7/Vulnerability-Assessment.git)
 
 
-<!--
-
 ## Cyber Lab Projects
-
-
-
--->
+- [Proxmox & pfsense - Installation & Configuration](https://github.com/meenuh7/Proxmox-VE-Pfsense.git)
 
 
 
